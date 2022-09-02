@@ -1,3 +1,4 @@
 ### 個人履歷表Bootstrap版本
 
-<iframe src="projectVideo\resumeVideo.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="472px"> </iframe>
+https://user-images.githubusercontent.com/97752691/188087469-826dae80-1b46-483f-b75c-2653517dbcbc.mp4
+
