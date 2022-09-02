@@ -2,7 +2,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-ff69b4)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-yellow)
-![JQUERY](https://img.shields.io/badge/-JQUERYL-9cf)
+![JQUERY](https://img.shields.io/badge/-JQUERY-9cf)
 
 ## 專案名稱(Project's Title)
 
