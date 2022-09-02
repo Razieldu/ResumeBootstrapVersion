@@ -3,21 +3,14 @@
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-ff69b4)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-yellow)
 ![JQUERY](https://img.shields.io/badge/-JQUERY-9cf)
-<<<<<<< HEAD
-
-### 專案名稱(Project's Title)
-=======
->>>>>>> 2cd49d1dac2aa10f1537005c3d8adb707d2a3e0b
 
 ## 專案名稱(Project's Title)
-
 
 個人履歷表Bootstrap版本
 
 ResumeBootstrapVersion
 
 ## 專案敘述(Project Description)
-
 
 
 主要以Bootstrap來建構,搭配jQuery做出動畫的效果
@@ -36,3 +29,4 @@ https://resumeboostrapversion.web.app/
 
 
 https://user-images.githubusercontent.com/97752691/188088861-f2afcbeb-8ee8-4101-b808-61dd9b97ab21.mp4
+
