@@ -24,6 +24,12 @@ train my program logic.
 
 https://resumeboostrapversion.web.app/
 
+
 ## 參考視頻(Reference Video)
 
 https://user-images.githubusercontent.com/97752691/188088861-f2afcbeb-8ee8-4101-b808-61dd9b97ab21.mp4
+
+
+## 參考圖片(Reference Photo)
+
+![PROJECT PHOTO](https://github.com/Razieldu/ResumeBootstrapVersion/raw/main/profectPhotoes/resumeboostrapversion.web.app_.png)
