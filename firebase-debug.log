@@ -1,0 +1,21 @@
+[debug] [2022-09-02T06:32:38.055Z] ----------------------------------------------------------------------
+[debug] [2022-09-02T06:32:38.059Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ASUS VIVO BOOK\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-09-02T06:32:38.060Z] CLI Version:   11.7.0
+[debug] [2022-09-02T06:32:38.061Z] Platform:      win32
+[debug] [2022-09-02T06:32:38.061Z] Node Version:  v16.16.0
+[debug] [2022-09-02T06:32:38.063Z] Time:          Fri Sep 02 2022 14:32:38 GMT+0800 (台北標準時間)
+[debug] [2022-09-02T06:32:38.064Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-09-02T06:32:38.078Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-09-02T06:32:38.079Z] > authorizing via signed-in user (s202032808@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ASUS VIVO BOOK\OneDrive\Desktop\個人履歷Bootstrap版本
+

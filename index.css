@@ -1,0 +1,124 @@
+html{
+
+    border-style: none;
+  }
+  
+  
+  h1{
+    font-weight: bolder;
+  }
+  
+  
+  h3{
+    display: inline;
+  }
+  h5{
+    display: inline;
+    color:#7FB5FF;
+  }
+  
+  h6{
+  text-align: center;
+  
+  }
+  
+  
+  p{
+  
+  line-height: 1.5;
+  }
+  
+  a{
+  text-decoration:none;
+  color:black;
+  
+  }
+  
+  i{
+  margin-bottom: 9px;
+  color:black;
+  }
+  
+  ul{
+    margin-top: 30px;
+    margin-bottom: 70px;
+    list-style: none;
+  }
+  
+  
+  
+  li{
+  margin-top: 10px;
+  margin-bottom:10px;
+  
+  }
+  
+  
+  
+  .top{
+    margin-top: 10px;
+    margin-bottom: 40px;
+  }
+  
+  .me{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+  
+  }
+  
+  .intro{
+    text-align: center;
+  }
+  
+  
+  .fa-motorcycle{
+  
+  font-size: 1rem;
+  }
+  
+  
+  
+  .start{
+  position: absolute;
+  }
+  
+  .static{
+    position: static;
+  }
+  
+  .worktitle{
+  margin-top:0px;
+  margin-bottom:30px;
+  }
+  
+  .worktime{
+  color:grey;
+  margin-top: 10px;
+  
+  }
+  
+  .skill{
+    text-align:center;
+  }
+  
+  
+  .skill-photo{
+  
+    border-radius: 50%
+  }
+  
+  .tku{
+  width:5rem;
+  height:5rem;
+  }
+  
+  .project-title{
+    text-align: center;
+  }
+  
+  .education{
+    text-align: center;
+  }
+  
+  
