@@ -4,7 +4,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-yellow)
 ![JQUERY](https://img.shields.io/badge/-JQUERYL-9cf)
 
-##專案名稱(Project's Title)
+## 專案名稱(Project's Title)
 
 個人履歷表Bootstrap版本
 
