@@ -1,4 +1,8 @@
-![HTML](https://img.shields.io/badge/-HTML-brightgreen)
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-ff69b4)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-yellow)
+![JQUERY](https://img.shields.io/badge/-JQUERYL-9cf))
 
 ### 專案名稱(Project's Title)
 
@@ -22,6 +26,7 @@ to handle Bootstrap and jQuery and train my program logic.
 https://resumeboostrapversion.web.app/
 
 
-###　參考視頻(Reference Video)
+### 參考視頻(Reference Video)
+
 
 https://user-images.githubusercontent.com/97752691/188088861-f2afcbeb-8ee8-4101-b808-61dd9b97ab21.mp4
