@@ -1,8 +1,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
-![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-ff69b4)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-yellow)
-![JQUERY](https://img.shields.io/badge/-JQUERY-9cf)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap%5E5.1.3-ff69b4)
+![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-yellow)
+![JQUERY](https://img.shields.io/badge/-jQery%5E3.6.0-9cf)
 
 ## 專案名稱(Project's Title)
 
@@ -20,16 +20,16 @@ is to make me be familiar with how to handle Bootstrap and jQuery and
 
 train my program logic.
 
-## 網站網址(Hosting Website)
+## 專案網址(Website Address)
 
 https://resumeboostrapversion.web.app/
 
 
-## 參考視頻(Reference Video)
+## 參考視頻(Project Video)
 
 https://user-images.githubusercontent.com/97752691/188088861-f2afcbeb-8ee8-4101-b808-61dd9b97ab21.mp4
 
 
-## 參考圖片(Reference Photo)
+## 參考圖片(Project Photo)
 
 ![PROJECT PHOTO](https://github.com/Razieldu/ResumeBootstrapVersion/raw/main/profectPhotoes/resumeboostrapversion.web.app_.png)
