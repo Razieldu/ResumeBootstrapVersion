@@ -2,9 +2,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-ff69b4)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-yellow)
-![JQUERY](https://img.shields.io/badge/-JQUERYL-9cf))
+![JQUERY](https://img.shields.io/badge/-JQUERY-9cf)
 
 ### 專案名稱(Project's Title)
+
 
 
 個人履歷表Bootstrap版本
@@ -12,6 +13,7 @@
 ResumeBootstrapVersion
 
 ### 專案敘述(Project Description)
+
 
 
 主要以Bootstrap來建構,搭配jQuery做出動畫的效果
